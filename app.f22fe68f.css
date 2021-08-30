@@ -129,3 +129,12 @@ font-weight : 600 ;
 @media screen and (max-width: 768px) {
 
 #show {display: block;}
+
+
+
+
+#show2 {display: block;}
+
+@media screen and (max-width: 768px) {
+
+#show2 {display: none;}
