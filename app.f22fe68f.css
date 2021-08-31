@@ -44,14 +44,17 @@ html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}details,main{d
 					.single-team__first{display:flex;flex-direction:column;position:relative;opacity:1;-webkit-clip-path:inset(0 0 0 100%);clip-path:inset(0 0 0 100%);transition:opacity 1s ease;background-position:left center;background-repeat:no-repeat;background-size:cover;overflow:hidden;text-align:center}.single-team__first-wrapper{background:#5d6368;position:absolute;top:0;right:0;width:100%;height:37.5rem;opacity:1}.single-team__first 
 					.single__img{object-fit:cover;height:34.5rem;width: 20.5rem;opacity:1;overflow:hidden;text-align:center; -webkit-filter: grayscale(1);    filter: grayscale(1); transition:.5s cubic-bezier(.215,.61,.355,1)}
 					.single-team__first .single__img:hover{-webkit-filter:grayscale(0);filter:grayscale(0)}
-				.single-team__first .member-name{    padding-top: 100px;
+				.single-team__first .member-name{  
+
+    left: 44%;font-weight:300;font-size:2.4375rem;line-height:45px;padding-top:25px}@media (max-width:767.98px){
+					.single-team__first .member-name{font-size:2rem ;   padding-top: 100px;
     position: absolute;
-    left: 44%;font-weight:300;font-size:2.4375rem;line-height:45px;padding-top:100px}@media (max-width:767.98px){
-					.single-team__first .member-name{font-size:2rem}}.single-team__first .member-role{padding-top: 142px;
+    left: 44%;font-weight:300;font-size:2.4375rem;line-height:45px;padding-top:100px}}.single-team__first .member-role{
+   font-weight:300;font-size:20px;line-height:28px;letter-spacing:.1px;color:#c7c7c7}
+	@media (max-width:767.98px){.single-team__first .member-role{font-size:1.5rem ; padding-top: 142px;
     position: absolute;
-    left: 50%;font-weight:300;font-size:20px;line-height:28px;letter-spacing:.1px;color:#c7c7c7}
-	@media (max-width:767.98px){
-						.single-team__first .member-role{font-size:1.5rem ; position:initial}}
+    left: 50%;font-weight:300;font-size:20px;line-height:28px;letter-spacing:.1px;color:#c7c7c7}}
+						
 						
 						.single-team .team-btn{display:flex;justify-content:center;padding-top:25px}@media (min-width:576px){
 							.single-team .team-btn{justify-content:center}}@media (min-width:768px){
