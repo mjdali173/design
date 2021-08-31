@@ -47,10 +47,8 @@ html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}details,main{d
 				.single-team__first .member-name{  
 
     left: 44%;font-weight:300;font-size:2.4375rem;line-height:45px;padding-top:25px}@media (max-width:767.98px){
-					.single-team__first .member-name{font-size:2rem ;   padding-top: 100px;
-    position: absolute;
-    left: 44%;font-weight:300;font-size:2.4375rem;line-height:45px;padding-top:100px}}.single-team__first .member-role{
-   font-weight:300;font-size:20px;line-height:28px;letter-spacing:.1px;color:#c7c7c7}
+					.single-team__first .member-name{position: absolute;left: 57%;font-weight:300;font-size:1.4375rem;line-height:45px;padding-top:90px}}.single-team__first .member-role{
+						font-weight:300;font-size:2.4375;line-height:45px;letter-spacing:.1px;color:#c7c7c7}
 	@media (max-width:767.98px){.single-team__first .member-role{font-size:1.5rem ; padding-top: 142px;
     position: absolute;
     left: 50%;font-weight:300;font-size:20px;line-height:28px;letter-spacing:.1px;color:#c7c7c7}}
