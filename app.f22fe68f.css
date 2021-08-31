@@ -49,8 +49,11 @@ html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}details,main{d
     left: 44%;font-weight:300;font-size:2.4375rem;line-height:45px;padding-top:100px}@media (max-width:767.98px){
 					.single-team__first .member-name{font-size:2rem}}.single-team__first .member-role{padding-top: 142px;
     position: absolute;
-    left: 50%;font-weight:300;font-size:20px;line-height:28px;letter-spacing:.1px;color:#c7c7c7}@media (max-width:767.98px){
-						.single-team__first .member-role{font-size:1.5rem}}.single-team .team-btn{display:flex;justify-content:center;padding-top:25px}@media (min-width:576px){
+    left: 50%;font-weight:300;font-size:20px;line-height:28px;letter-spacing:.1px;color:#c7c7c7}
+	@media (max-width:767.98px){
+						.single-team__first .member-role{font-size:1.5rem ; position:initial}}
+						
+						.single-team .team-btn{display:flex;justify-content:center;padding-top:25px}@media (min-width:576px){
 							.single-team .team-btn{justify-content:center}}@media (min-width:768px){
 								.single-team .team-btn{justify-content:flex-start}}@media (min-width:992px){
 								.single-team .team-btn{padding-top:50px;justify-content:flex-start}}
