@@ -265,13 +265,7 @@ background: linear-gradient(45deg, rgba(79,172,254,0.5) 0%, rgba(0,242,254,0.5) 
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4facfe', endColorstr='#00f2fe', GradientType=1 );
 }
 .hero-text-wrap.gradient-overlay-bg-two {width: 100%;height: 100vh;position: absolute;z-index: 1;
-background: rgba(246,211,101,1);
-background: -moz-linear-gradient(45deg, rgba(246,211,101,0.5) 0%, rgba(253,160,133,0.5) 100%);
-background: -webkit-gradient(left bottom, right top, color-stop(0%, rgba(246,211,101,0.5)), color-stop(100%, rgba(253,160,133,0.5)));
-background: -webkit-linear-gradient(45deg, rgba(246,211,101,0.5) 0%, rgba(253,160,133,0.5) 100%);
-background: -o-linear-gradient(45deg, rgba(79,172,254,0.5) 0%, rgba(253,242,254,0.5) 100%);
-background: -ms-linear-gradient(45deg, rgba(246,211,101,0.5) 0%, rgba(253,160,133,0.5) 100%);
-background: linear-gradient(45deg, rgba(246,211,101,0.5) 0%, rgba(253,160,133,0.5) 100%);
+
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4facfe', endColorstr='#00f2fe', GradientType=1 );
 }
 .rev_slider a {-webkit-transition: all .3s ease-in !important;-o-transition: all .3s ease-in !important;transition: all .3s ease-in !important;}
