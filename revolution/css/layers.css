@@ -5811,7 +5811,7 @@ tp-caption.Team-Thumb,
 .panel-title > a:before {
     float: right !important;
     font-family: FontAwesome;
-content:"\2212";
+    content:"\f068";
     padding-right: 5px;
 }
 body{
@@ -5819,7 +5819,7 @@ body{
 }
 .panel-title > a.collapsed:before {
     float: right !important;
-    content:"\2b";
+    content:"\f067";
 }
 .panel-title > a:hover, 
 .panel-title > a:active, 
@@ -5844,7 +5844,7 @@ body{
     padding-bottom: 30px;
     margin-bottom: 30px;
     color: inherit;
-    background-color: #f1d3d8;
+    background-color: #00bcd4;
     text-align: center;
     color: #fff;
 }
