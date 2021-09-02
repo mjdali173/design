@@ -2455,10 +2455,12 @@ z-index: 99;  } }
 
 
 .textslide
-(
+{ 
+text-align : center ; 
+font-family: 'Lora',serif ;
+font-size : 20px ; 
+font-weight : 200 ; 
 
 
 
-
-
-)
+}
