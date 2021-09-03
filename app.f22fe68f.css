@@ -54,7 +54,7 @@ html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}details,main{d
     padding-top: 25px;}
 	@media (max-width:767.98px){.single-team__first .member-name{
 		position: absolute;
-    left: 59%;
+    left: 15.5rem;
     font-weight: 300;
     font-size: 1.53rem;
     line-height: 45px;
@@ -71,7 +71,7 @@ html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}details,main{d
 	    font-size: 1.1rem;
     padding-top: 127px;
     position: absolute;
-    left: 59%;
+    left: 15.5rem;
     font-weight: 300;
 
     line-height: 28px;
@@ -173,5 +173,9 @@ font-weight : 600 ;
 
 
 
-
+.rectangle {
+  height: 50px;
+  width: 100px;
+  background-color: #555;
+}
 	
