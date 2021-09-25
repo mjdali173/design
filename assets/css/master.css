@@ -253,7 +253,7 @@ ul.vcard-menu li a:hover {color: #2d2d2d;}
 .hero-text h5 {font-size:19px;}
 .hero-text h6 {font-size:14px;}
 .hero-text-wrap.color-overlay-bg {background: rgba(191, 7, 49, 0.75);width: 100%;height: 101vh;position: absolute;z-index: 1;}
-section.dark-block .hero-text-wrap, section.dark-block.title-hero-bg::before {background-color:transparent;}
+.section.dark-block .hero-text-wrap, section.dark-block.title-hero-bg::before {background-color:transparent;}
 .hero-text-wrap.gradient-overlay-bg {width: 100%;height: 100vh;position: absolute;z-index: 1;
 background: rgba(79,172,254,1);
 background: -moz-linear-gradient(45deg, rgba(79,172,254,0.5) 0%, rgba(0,242,254,0.5) 100%);
