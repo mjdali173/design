@@ -1057,9 +1057,9 @@ box-shadow: 0px 0px 51px 0px rgba(0, 0, 0, 0.08), 0px 6px 18px 0px rgba(0, 0, 0,
 .btn-dark-outline:hover, .btn-dark-outline:active, .btn-dark-outline:focus {color: #fff;border-color: #212121;background-color: #212121;}
 .btn-gradient-primary{color: #fff;background-color: #2d2d2d ;position: relative;-webkit-transition: all .5s ease .1s;-o-transition: all .5s ease .1s;transition: all .5s ease .1s;z-index: 2;overflow: hidden;}
 .btn-gradient-primary:after{content: '';position: absolute;width: 100%;height: 100%;left: 0;top: 0;visibility: hidden;opacity: 0;z-index: -1;
-background: rgba(79,172,254,1);background: -moz-linear-gradient(45deg, rgba(79,172,254,1) 0%, rgba(0,242,254,1) 100%);background: -webkit-gradient(left bottom, right top, color-stop(0%, rgba(252,103,103,1)), color-stop(100%, rgba(236,0,140,1)));
-background: -webkit-linear-gradient(45deg, rgba(79,172,254,1) 0%, rgba(0,242,254,1) 100%);background: -o-linear-gradient(45deg, rgba(79,172,254,1) 0%, rgba(0,242,254,1) 100%);
-background: -ms-linear-gradient(45deg, rgba(79,172,254,1) 0%, rgba(0,242,254,1) 100%);background: linear-gradient(45deg, rgba(79,172,254,1) 0%, rgba(0,242,254,1) 100%);
+background: rgb(54, 54, 54);background: -moz-linear-gradient(45deg, rgba(54, 54, 54) 0%, rgba(54, 54, 54) 100%);background: -webkit-gradient(left bottom, right top, color-stop(0%, rgba(252,103,103,1)), color-stop(100%, rgba(236,0,140,1)));
+background: -webkit-linear-gradient(45deg, rgba(54, 54, 54) 0%, rgba(54, 54, 54) 100%);background: -o-linear-gradient(45deg, rgba(54, 54, 54) 0%, rgba(54, 54, 54) 100%);
+background: -ms-linear-gradient(45deg, rgba(54, 54, 54) 0%, rgba(54, 54, 54) 100%);background: linear-gradient(45deg, rgba(54, 54, 54) 0%, rgba(54, 54, 54) 100%);
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2d2d2d', endColorstr='#00f2fe', GradientType=1 );}
 .btn-gradient-primary:hover, .btn-gradient-primary:active, .btn-gradient-primary:focus{color:#fff;}
 .btn-gradient-primary:hover:after, .btn-gradient-primary:active:after, .btn-gradient-primary:focus:after{visibility: visible;opacity: 1;}
