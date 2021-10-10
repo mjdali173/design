@@ -5850,3 +5850,12 @@ body{
 }
 
 
+#log {
+	left: 50%;
+	margin-left: -49px !important;
+	position: absolute;
+	top: 25%;
+	z-index: 99; 
+	width: 150;
+	height: 150;
+}
